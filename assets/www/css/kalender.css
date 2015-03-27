@@ -1,0 +1,27 @@
+#startButton {
+    position:absolute;
+    left:50%;
+    top:50%;
+	display:none;
+}
+
+#kalender {
+    position:absolute;
+    top:25px;
+	left:20px;
+	display:none;
+	width:50%;
+}
+
+.lastMonth {
+	color:darkgrey;
+}
+
+.event {
+	display:none;
+}
+
+.today {
+	background-color: lightblue;
+	border:1px solid darkblue;
+}
